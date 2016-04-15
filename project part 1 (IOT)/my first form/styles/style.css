@@ -1,0 +1,23 @@
+body {
+	background-color: lightblue;
+	}
+form
+{
+width: 100px;
+border: 1px solid #FFF;
+margin: 0 auto;
+padding: 3em;
+border-radius: 1em;
+}
+	
+label
+{width: 8em;
+}
+
+.button {
+  padding:5px;
+  background-color: #F0F0F0;
+  border: 1px solid #666;
+  color:#000;
+  text-decoration:none;
+}
